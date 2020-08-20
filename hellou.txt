@@ -1,2 +1,6 @@
 En el documento estan todas las funciones para ingresar dentro de un query nuevo
 
+Aparte agregando a la entrega cabe mencionar que el trabajo fue un poco tedioso a la hora de hacer funciones como los trigger
+El principal problema se baso en el poco conocimiento de la estructura de estos, pero de ah[i en los otros casos todo se realizo de acuerdo a lo estimado y
+se tuvo una guia clara. Finalmente mi opinion sobre el trabajo es que es una practica muy necesaria que nos permite acostumbrarnos a ambitos laborales 
+que nos permiten simularlo.
