@@ -1,1 +1,2 @@
+En el documento estan todas las funciones para ingresar dentro de un query nuevo
 
